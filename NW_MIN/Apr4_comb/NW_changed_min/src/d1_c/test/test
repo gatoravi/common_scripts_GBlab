@@ -1,0 +1,5 @@
+((Carpediemonas_membranifera,Volvox_carteri),Hartmannella_vermiformis);
+((Arabidopsis_thaliana,Micromonas_pusilla),Oryza_sativa);
+(Acetabularia_acetabulum,(Carpediemonas_membranifera,Hartmannella_vermiformis));
+(Acetabularia_acetabulum,(Carpediemonas_membranifera,Volvox_carteri));
+(Acetabularia_acetabulum,(Arabidopsis_thaliana,Carpediemonas_membranifera));

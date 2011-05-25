@@ -1,0 +1,47 @@
+
+The frequency entered is 70
+Seed file is 6_3_70
+The number of seeds is 11
+Tree file is big.txt
+The number of trees is 109
+The cutoff is 76 trees
+The false cutoff is 33 trees
+Frequency file is 6_3_70_frequencies 
+The number of frequencies is 11
+OUTER SEED 0
+1
+2
+0
+OUTER SEED 1
+2
+0
+1
+OUTER SEED 2
+1
+0
+2
+OUTER SEED 3
+3
+OUTER SEED 4
+5
+6
+4
+OUTER SEED 5
+4
+6
+5
+OUTER SEED 6
+5
+4
+6
+OUTER SEED 7
+8
+7
+OUTER SEED 8
+7
+8
+OUTER SEED 9
+OUTER SEED 10
+8
+7
+Total 0.070000 minutes
